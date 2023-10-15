@@ -60,3 +60,20 @@ function countdown()
     }
   }, 1000);
 }
+
+document.querySelector('.hamburger-menu').addEventListener('click', function() {
+  var nav = document.querySelector('nav ul');
+  nav.classList.toggle('active');
+});
+
+// Get the header height
+var headerHeight = document.querySelector('header').offsetHeight;
+
+// Get all elements with the "content" class
+var contentSections = document.querySelectorAll('.content');
+
+// Set the "padding-top" for each content section
+contentSections.forEach(function(section) {
+    section.style.paddingTop = headerHeight + 'px';
+});
+
