@@ -7,12 +7,14 @@
 .content {
     display: flex;
     padding-top: 100px; /* Adjust the value as needed to create enough space below the header */
+    justify-content: center;
 }
 
 .center {
     flex: 2;
     text-align: left;
     background-color: brown;
+    
   }
 
 .left {
