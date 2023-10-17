@@ -76,4 +76,3 @@ var contentSections = document.querySelectorAll('.content');
 contentSections.forEach(function(section) {
     section.style.paddingTop = headerHeight + 'px';
 });
-
