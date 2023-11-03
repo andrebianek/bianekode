@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0417c7af.css",
+    "main.js": "/static/js/main.e1735fad.js",
+    "static/js/787.8adf0cb3.chunk.js": "/static/js/787.8adf0cb3.chunk.js",
+    "static/media/tdgame.jpg": "/static/media/tdgame.a6bd94c434fc91f5e2ff.jpg",
+    "static/media/20gamesChallenge.jpg": "/static/media/20gamesChallenge.2eb5615c25fcaaaa624a.jpg",
+    "index.html": "/index.html",
+    "main.0417c7af.css.map": "/static/css/main.0417c7af.css.map",
+    "main.e1735fad.js.map": "/static/js/main.e1735fad.js.map",
+    "787.8adf0cb3.chunk.js.map": "/static/js/787.8adf0cb3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0417c7af.css",
+    "static/js/main.e1735fad.js"
+  ]
+}
