@@ -1,0 +1,37 @@
+[
+  {
+    "id": "tower-defense",
+    "title": "Untitled Tower Defense Game",
+    "description": "I created a tower defense game in the Introduction to Game Development class",
+    "bannerImage": "tdgame.jpg", 
+    "links": [
+      {
+        "name": "TD Game Repo",
+        "url": "https://github.com/andrebianek/LaymasTD"
+      }
+    ],
+    "date": "March 2023",
+    "skills": [
+      "GDScript",
+      "Godot"
+    ]
+  },
+  {
+    "id": "20-games-challenge",
+    "title": "The 20 Games Challenge",
+    "description": "I'm doing the 20 games challenge. Project description, taken from its website: The 20 Games Challenge is a fun way to gain confidence while learning to make video games. If you take a traditional art class, you might be asked to re-create a famous work. It might sound like a waste of time at first, but by copying a masterpiece, you will often gain a deeper understanding of the fundamentals that you could gain by just “winging it.” Video games are one of the most complex art forms to date. Mastering the fundamentals of game development will take a lot of practice and patience. Many professional game developers will recommend making multiple small projects instead of starting with your “dream game.” This challenge is my attempt to simplify the learning process for anyone who wants to start making their own video games.",
+    "bannerImage": "20gamesChallenge.jpg",
+    "links": [
+      {
+        "name": "The 20 Games Challenge",
+        "url": "https://20_games_challenge.gitlab.io/"
+      }
+    ],
+    "date": "November 2023 - Present",
+    "skills": [
+      "C#",
+      "GDScript",
+      "Godot"
+    ]
+  }
+]
