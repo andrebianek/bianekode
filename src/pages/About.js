@@ -12,24 +12,16 @@ function About() {
           Hi! I'm Andre, currently
           working as a Data Analyst for{" "}
           <a
-            href="https://www.refinitiv.com/en"
+            href="https://www.lseg.com/en/data-analytics"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Refinitiv
+            LSEG Data & Analytics
           </a>
-          , an {" "}
-          <a
-            href="https://www.lseg.com/en"
-            target="_blank"
-            rel="noopener noreferrer"
-          > 
-            LSEG 
-          </a>{" "}
-          business. 
+          . 
           </p>
           <p>
-          I'm studying Computer Engineering at {" "}
+          I'm studying Computer Science at {" "}
           <a
             href="https://vistula.edu.pl/en"
             target="_blank"
